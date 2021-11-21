@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data science**
 
-- 📫 How to reach me **oyedeepakkumar@gmail.com**
+- 📫 How to reach me **2015deepakkumar.pal@ves.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
