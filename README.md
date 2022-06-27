@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deepakkumar Pal</h1>
-<h3 align="center">I am currently working as a Associate Software Engineer at Accenture.</h3>
+<h3 align="center">I am currently working as a Data Engineer at Accenture.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakpal31&label=Profile%20views&color=0e75b6&style=flat" alt="deepakpal31" /> </p>
 
-- 🌱 I’m currently learning **Data science**
 
 - 📫 How to reach me **2015deepakkumar.pal@ves.ac.in**
 
